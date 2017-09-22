@@ -1,4 +1,4 @@
-![Some text](/KOM_logo_d2.png)
+![Some text](/KOM_logo_d.png)
 # Kalin Malouf
 Mechanical Engineering and Product Design
 ## Portfolio
