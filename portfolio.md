@@ -1,4 +1,4 @@
-
+![logo]({{ komalouf.github.io }}/KOM_logo_d2.png)
 # Kalin Malouf
 Mechanical Engineering and Product Design
 ## Portfolio
