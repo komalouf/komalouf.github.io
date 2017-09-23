@@ -7,7 +7,7 @@ This website is under construction.
 Download an interactive pdf of my portfolio, or preview it on Dropbox here:
 [Portfolio](https://www.dropbox.com/s/u27k7oxzckr32je/Malouf_Portfolio_2017.pdf?dl=0)
 
-![Contents](/images/Malouf_Portfolio_2017_Contents.png)
+![Contents](/images/Malouf_Portfolio_2017_Contents3.png)
 
 # Menu
 
