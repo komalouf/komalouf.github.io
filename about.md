@@ -8,12 +8,12 @@ I’m interested in product design and engineering projects which improve people
 
 # Menu
 
-[ Home ](komalouf.github.io/portfolio)
+[Home](http://komalouf.github.io/portfolio)
 
-[ About  ](komalouf.github.io/about)
+[About](http://komalouf.github.io/about)
 
-[ Portfolio  ](https://www.dropbox.com/s/u27k7oxzckr32je/Malouf_Portfolio_2017.pdf?dl=0)
+[Portfolio](https://www.dropbox.com/s/u27k7oxzckr32je/Malouf_Portfolio_2017.pdf?dl=0)
 
-[ LinkedIn ](https://www.linkedin.com/in/kmalouf)
+[LinkedIn](https://www.linkedin.com/in/kmalouf)
 
-[ AngelList  ](https://angel.co/kalin-malouf)
+[AngelList](https://angel.co/kalin-malouf)
