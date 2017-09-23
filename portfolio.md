@@ -1,6 +1,7 @@
 ![Some text](/KOM_logo_dsmall.png)
 # Kalin Malouf 
-Mechanical Engineering and Product Design
+##### Mechanical Engineering and Product Design
+##### Massachusetts Institute of Technology, B.S. Mechanical Engineering, Class of 2016
 # Portfolio
 This website is under construction.
 Download an interactive pdf of my portfolio, or preview it on Dropbox here:
