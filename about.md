@@ -10,11 +10,7 @@ I’m interested in product design and engineering projects which improve people
 
 [Home](http://komalouf.github.io/portfolio)
 
-[Home](portfolio.md)
-
 [About](http://komalouf.github.io/about)
-
-[About](about.md)
 
 [Portfolio](https://www.dropbox.com/s/u27k7oxzckr32je/Malouf_Portfolio_2017.pdf?dl=0)
 
