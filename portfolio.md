@@ -8,9 +8,9 @@ Download an interactive pdf of my portfolio, or preview it on Dropbox here:
 
 # Menu
 
-[ Home ](komalouf.github.io/portfolio)
+[ Home ](https://komalouf.github.io/portfolio)
 
-[ About  ](komalouf.github.io/about)
+[ About  ](https://komalouf.github.io/about)
 
 [ Portfolio  ](https://www.dropbox.com/s/u27k7oxzckr32je/Malouf_Portfolio_2017.pdf?dl=0)
 
